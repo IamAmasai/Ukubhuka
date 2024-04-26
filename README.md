@@ -1,1 +1,3 @@
-# Ukubhuka
+Ukubhuka means booking in Xhosa...
+it is a system booking for trips!
+Cheers!
